@@ -5,7 +5,7 @@
  * Example: Hello NodeJS
  */
 const displayMessage = (msg) => {
-	  console.log(msg);
+		  console.log(msg);
 };
 
 module.exports = displayMessage;
